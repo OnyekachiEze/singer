@@ -9,8 +9,8 @@ export default async function sendEmail(req, res) {
             // Configure your email service provider here
             service: 'gmail',
             auth: {
-                user: 'your_email@gmail.com',
-                pass: 'your_email_password'
+                user: 'ezeonyekachi@gmail.com',
+                pass: '242842'
             }
         });
 
